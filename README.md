@@ -1,2 +1,2 @@
 # windows-fixer
- A repair tool for spoofers
+This tool will fix your Windows Licensing system
